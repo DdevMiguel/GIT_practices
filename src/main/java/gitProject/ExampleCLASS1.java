@@ -7,20 +7,9 @@ public class ExampleCLASS1 {
         System.out.println( "Mensaje en main de MASTER" );
     }
     
-    public void metodo1RamaMASTER() {
-        System.out.println("metodo1RamaMASTER - Rama MASTER");
+    public void commit_3_RamaMASTER() {
+        System.out.println( "commit_3_RamaMASTER - Rama MASTER" );
     }
 
-    public void metodo2RamaMASTER() {
-        System.out.println("metodo2RamaMASTER - Rama RAMA_2");
-    }
-
-    public void metodo3RamaMASTER() {
-        System.out.println("metodo3RamaMASTER - Rama MASTER");
-    }
-
-    public void metodo1RamaRAMA_2() {
-        System.out.println("metodo1RamaRAMA_2 - Rama RAMA_2");
-    }
     
 }
