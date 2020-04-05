@@ -15,4 +15,8 @@ public class ExampleCLASS1 {
         System.out.println( "commit_4_RamaMASTER - Rama MASTER" );
     }
     
+    public void commit_5_RamaMASTER() {
+        System.out.println( "commit_5_RamaMASTER - Rama MASTER" );
+    }
+    
 }
