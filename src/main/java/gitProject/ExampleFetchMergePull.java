@@ -7,8 +7,8 @@ public class ExampleFetchMergePull {
         System.out.println( "Mensaje original de EXAMPLEFETCHMERGEPULL" );
     }
     
-    public static void RAMA_2_metodo_1( ) {
-        System.out.println( "Metodo 1 - RAMA 2" );
+    public static void CambiarMetodo2b( ) {
+        System.out.println( "Metodo 1 - Rama2B" );
     }
 
 }
