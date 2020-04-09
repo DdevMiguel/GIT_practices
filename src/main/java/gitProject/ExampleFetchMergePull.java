@@ -4,16 +4,15 @@ package gitProject;
 public class ExampleFetchMergePull {
 
     public static void main( String[] args ) {
-        System.out.println( "Mensaje original de EXAMPLEFETCHMERGEPULL_RAMA_1" );
+        System.out.println( "SOLO COMENTARIO 3" );
     }
 
     public static void metodo1() {
-        System.out.println( "Mensaje metodo1 de EXAMPLEFETCHMERGEPULL_RAMA_1" );
-        System.out.println( "Mensaje original de EXAMPLEFETCHMERGEPULL_RAMA_2" );
+        System.out.println( "SOLO COMENTARIO 3" );
     }
 
     public static void metodo2() {
-        System.out.println( "Mensaje metodo1 de EXAMPLEFETCHMERGEPULL_RAMA_2" );
+        System.out.println( "SOLO COMENTARIO 3" );
     }
     
 }
