@@ -10,5 +10,9 @@ public class ExampleCLASS1 {
     public void loginFacebook() {
         System.out.println( "Logado en caralibro" );
     }
-    
+
+    public void meotodo1() {
+        System.out.println( "Método 1 de la rama 3" );
+    }
+
 }
