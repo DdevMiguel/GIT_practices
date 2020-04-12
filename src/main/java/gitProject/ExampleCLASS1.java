@@ -8,7 +8,7 @@ public class ExampleCLASS1 {
     }
     
     public void method_1() {
-        System.out.println( "Method created in 1_branch in Commit 2" );        
+        System.out.println( "Method created in 1_branch in Commit 2 - reverted" );        
     }
 
     public void method_2() {
