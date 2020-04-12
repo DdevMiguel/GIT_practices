@@ -7,5 +7,8 @@ public class ExampleCLASS1 {
         System.out.println( "Chamge message to one branch" );
     }
     
+    public void method_1() {
+        System.out.println( "Method created in 1_branch" );        
+    }
     
 }
